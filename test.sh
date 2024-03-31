@@ -1,2 +1,2 @@
-echo "Hello World!"
+echo "test"
 curl https://example.com
